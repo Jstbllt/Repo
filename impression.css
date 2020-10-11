@@ -1,0 +1,472 @@
+@page { margin: 10% }
+
+body
+{
+	font-size: 30pt;
+}
+
+@font-face
+{
+	font-family: 'MangoChutney';
+	src: url('police/MangoChutney.ttf');
+
+	font-family: 'DearOldDad';
+	src: url('police/DearOldDad.ttf');
+
+	font-family: 'Razan';
+	src: url('police/Razan.ttf');
+}
+
+/*--------------------------------------------------------------------------------------------------------*/
+
+header
+{
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+/*--------------------------------*/
+
+	img#logo
+	{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+/*--------------------------------*/
+
+	span#b1
+	{
+		font-size: 2.5em;
+		color: #0099CC;
+		white-space: normal;
+		text-align: center;
+		display: block;
+		margin-right: auto;
+		margin-left: auto;
+		font-family: "Bahnschrift Light", DearOldDad, verdana;
+	}
+
+	blockquote
+	{
+		font-family: "Volaroid Script", Razan, Autobus, DearOldDad, verdana;
+		font-size: large;
+		color: purple;
+		text-decoration: italic;
+		text-align: center;
+	}
+
+/*--------------------------------*/
+
+	nav
+	{
+		display: block;
+		width: 80%;
+		height: 2cm;
+		padding-top: 5mm;
+		padding-bottom: 5mm;
+		margin-left: auto;
+		margin-right: auto;
+		font-family: "copperplate gothic", verdana;
+		font-weight: bold;
+		color: black;
+	}
+
+	
+	.nav li
+	{
+		display: inline-block;
+		list-style: none;
+		float: center;
+		position: relative;
+	}
+
+	nav > .nav a 
+	{
+		margin: 0 46px;
+		color: white;
+		text-decoration: none;
+	}
+
+	nav > ul
+	{
+		display: block;
+		margin: 0px;
+		padding: 0px;
+		text-align: center;
+	}
+
+	
+	nav li
+	{
+		list-style-type: none;
+		
+	}
+
+	.options
+	{
+		display: none;
+	}
+
+	.options li
+	{
+		border-bottom: 1px solid white;
+	}
+
+	.options li a
+	{
+		padding: 10px 30px;
+		font-size: 13px;
+		color: white;
+		width: 85px;
+		padding-left: 25px;
+		background-color: black;
+	}
+
+	
+
+/*--------------------------------*/
+
+	img#deco
+		{
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+		}
+
+/*--------------------------------------------------------------------------------------------------------*/
+	
+	section.body-text /*(contient la section ACCUEIL)*/
+	{
+		min-height: 100%;
+		width: 900px;
+		margin-left: auto;
+		margin-right: auto;
+		padding-left: 50px;
+		padding-right: 50px;
+		padding-top: 30px;
+		background-color: white;
+	}
+
+/*--------------------------------*/
+			
+	section#section-pre-etapes
+	{
+		text-align: left;
+		display: block; 
+		margin-left: 200px;
+	}
+
+	p#pub
+	{
+		font-size: x-large;
+		font-style: oblique;
+		font-weight: bold;
+		font-family:'AR ESSENCE';
+		text-align: left;
+	}
+
+	img#bon-plan
+	{
+		float: left;
+		width: 210px;
+		height: 150px;
+	}					
+
+/*--------------------------------*/
+	
+	section.accueil
+	{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		background-color: white;
+	}
+
+	section.accueil, p
+	{
+		font-family: "bahnschrift semicondensed", bahnschrift, verdana, sans-serif;
+		font-size: 1em;
+		font-style: normal;
+		text-align: left;
+	}
+
+	section.accueil h1
+	{
+		float: left;
+		font-family: AR DESTINE;
+		font-size: 2.5em;
+		text-align: left;
+	}
+
+	h1#simple
+	{
+		margin-right: 130px;
+	}
+
+	h1#efficace
+		{
+			margin-right: 90px;
+		}
+
+	h1#moins_cher
+	{
+		margin-right: 30px;
+	}
+
+	div.actu
+	{
+		display: none;
+	}
+
+	div.abo
+	{
+		display: none;
+	}
+
+/*--------------------------------*/
+	
+	img#produits1
+	{
+		width: 50%;
+		height: 25%;
+		margin-left: 25%;
+		margin-right: 10%; 
+	}
+
+/*--------------------------------*/
+
+	section.body-text 
+	{
+		min-height: 100%;
+		width: 900px;
+		margin-left: auto;
+		margin-right: auto;
+		padding-left: 50px;
+		padding-right: 50px;
+		padding-top: 30px;
+		background-color: white;
+	}
+
+	section#qui_sommes_nous h1
+	{
+		font-family: AR DESTINE;
+		font-size: 2em;
+		text-align: center;
+	}
+
+	section#qui_sommes_nous p
+	{
+		text-align: center;
+		font-family: "bahnschrift semicondensed", bahnschrift, verdana, sans-serif;
+	}
+
+	div.com
+	{
+		width: 880px;
+		height: 480px;
+		background-color: #E5E5E5;
+		padding: 5px;
+		border-radius: 15px;
+		margin-left: auto; margin-right: auto;
+		border: 3px orange double;
+		font-family: "bahnschrift semicondensed", bahnschrift, verdana, sans-serif;
+	}
+
+	div.com h2
+	{
+		text-align: center;
+		color: orange;
+		font-family: "bahnschrift semicondensed", bahnschrift, verdana, sans-serif;
+	}
+
+/*--------------------------------------------------------------------------------------------------------*/
+
+	section.body-text /*(contient la section NOS PRODUITS)*/
+	{
+		width: 90%;
+		margin-left: auto;
+		margin-right: auto;		
+		padding-top: 1cm;
+		background-color: white;
+	}
+
+/*--------------------------------*/
+
+	section.nos_produits
+	{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		background-color: white;
+	}
+
+	section.nos_produits p
+	{
+		text-align: center;
+	}
+
+	section.nos_produits h2
+	{
+		font-family: AR ESSENCE;
+		text-decoration: underline;
+	}
+
+	img#illustration
+	{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 500px;
+		height: 350px;
+	}
+
+	section.nos_produits em
+	{
+		font-size: 35pt;
+	}
+
+
+	ul#electromenager
+	{
+		font-style: 30pt;
+		font-family: "bahnschrift semicondensed", bahnschrift, verdana, sans-serif;
+	}
+
+	ul#electromenager span
+	{
+		text-decoration: underline;
+	}
+
+/*--------------------------------------------------------------------------------------------------------*/
+
+section.body-text
+	{
+		font-family: "bahnschrift semicondensed", bahnschrift, verdana, sans-serif;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		background-color: white;
+	}
+
+	div#sav h1
+	{
+		text-align: center;
+		font-family: "AR DESTINE";
+		text-decoration: underline;
+	}
+
+	div#sav p	
+	{
+		text-align: center;
+	}
+
+	img#img-sav
+	{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 150px;
+		height: 150px;
+	}
+
+	section.indications /*(contenue dans la section SAV)*/
+	{
+		font-family: "bahnschrift semicondensed", bahnschrift, verdana, sans-serif;
+		display: block;
+		text-align: left;
+		margin-left: auto;
+		margin-right: auto;
+		background-color: white;
+	}
+
+	section.indications h1
+	{
+		font-size: x-large;
+		font-weight: bold;
+		text-decoration: underline;
+		color: #ff9a00;
+	}
+
+	section.indications h2
+	{
+		font-size: 1.3em;
+		text-decoration: underline;
+	}
+
+	img.ans
+	{
+		float: right;
+		height: 50px;
+		width: 50px;
+	}
+
+
+/*--------------------------------------------------------------------------------------------------------*/
+	
+	section.aide_ce 
+	{
+		font-family: "bahnschrift semicondensed", bahnschrift, verdana, sans-serif;
+	}
+
+	img#CE
+	{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;	
+	}
+
+/*--------------------------------------------------------------------------------------------------------*/
+
+	section.nous_contacter
+	{
+		width: 800px;
+		height: 700px;
+		border: 3px black double;
+		border-radius: 15px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		padding: 10px;
+		font-family: "bahnschrift semicondensed", bahnschrift, verdana, sans-serif;
+	}
+
+	section.nous_contacter p
+	{
+		text-align: center;
+		font-family: "bahnschrift semicondensed", bahnschrift, verdana, sans-serif;
+	}
+
+/*--------------------------------*/
+
+	ol.numéro
+	{
+		list-style-type: upper-roman;
+	}
+
+	ul#F
+	{
+		list-style-type: none;
+	}
+
+	ul#F li:before
+	{
+		content: "→"
+	}
+
+/*--------------------------------*/
+
+	section.ML p
+	{
+		text-align: center;
+	}
+
+/*--------------------------------------------------------------------------------------------------------*/
+
+footer
+{
+	display: none;
+}
