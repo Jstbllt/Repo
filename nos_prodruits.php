@@ -25,7 +25,7 @@
 	<!-- NOS PRODUITS -->
 	<section class="nos_produits">
 
-            <p> Nous proposons un large choix d’appareils en électroménager, éviers et écrans plats grande taille. Nous ne livrons pas les petits appareils de faible valeur, inférieure à 100 €. Nous ne commercialisons pas les sous-marques, ni les marques de distributeurs ni les anciennes gammes épuisées, ni les exclusivités réservées à certaines enseignes. Nous ne pratiquons pas les soldes car nous n’avons pas de stock. <br> Vous pouvez obtenir quelques exemples de nos gammes de produits et de nos tarifs en consultant notre <a href="docs/SelectionComlineAutomne2020.pdf" target="blank">sélection Automne 2020</a>.
+            <p> Nous proposons un large choix d’appareils en électroménager, éviers et écrans plats grande taille. Nous ne livrons pas les petits appareils de faible valeur, inférieure à 100 €. Nous ne commercialisons pas les sous-marques, ni les marques de distributeurs ni les anciennes gammes épuisées, ni les exclusivités réservées à certaines enseignes. Nous ne pratiquons pas les soldes car nous n’avons pas de stock. <br> Vous pouvez obtenir quelques exemples de nos gammes de produits et de nos tarifs en consultant notre <a href="docs/SelectionComLineHiver2021.pdf" target="blank">sélection Hiver 2021</a>.
 			<br> Il vous suffit de <a href="nous_contacter.php">contacter notre service client</a> pour connaitre nos tarifs. <br> <br> 
 			
 						

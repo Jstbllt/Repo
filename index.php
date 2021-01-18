@@ -29,8 +29,8 @@
             </aside>
 
             <aside class="abolexique" style="float: right">
-                <h2 style="color: white; text-align: center"> SELECTION COM'LINE 2020 </h2>
-                <p><img src="img/tel.png" style="color: white"><br> Vous souhaitez avoir un aperçu de nos <br> gammes de produits et de nos tarifs ? <br> Consultez notre sélection Automne 2020 : <br> <br> <span><a href="/docs/SelectionComlineAutomne2020.pdf?version=<?php print time();?>" download="SelectionComlineAutomne2020.pdf" style="text-decoration: none; color: white">TELECHARGER</a></span></p>
+                <h2 style="color: white; text-align: center"> SELECTION COM'LINE HIVER 2021 </h2>
+                <p><img src="img/tel.png" style="color: white"><br> Vous souhaitez avoir un aperçu de nos <br> gammes de produits et de nos tarifs ? <br> Consultez notre sélection Hiver 2021 : <br> <br> <span><a href="/docs/SelectionComLineHiver2021.pdf?version=<?php print time();?>" download="SelectionComLineHiver2021.pdf" style="text-decoration: none; color: white">TELECHARGER</a></span></p>
             </aside>
             
         </section>
